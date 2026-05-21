@@ -114,12 +114,9 @@ p{
         flex: 50%;
         margin-top: 2px;
     }
-    .head , .btech , .reports , .reviews{
-    }
     .customer {
         flex-direction: column;
         display: block;
-
         
     }
     h1{
@@ -134,14 +131,15 @@ p{
         margin-left: 0;
         margin-right: 0;
         width: 100%;
-
     }
     .container{
         overflow: hidden;
         width: 70%;
-        padding: 1px;
-        
+        padding: 1px;  
     }
 
 }
-   
+
+
+
+
